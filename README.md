@@ -1,4 +1,4 @@
 # test
-# This is a test...
-# I am new
-# Hello
+This is a test...
+I am new
+Hello
